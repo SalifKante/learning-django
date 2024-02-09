@@ -1,0 +1,16 @@
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+asgiref==3.7.2
+bcrypt==4.1.2
+cffi==1.16.0
+Django==5.0.1
+django-seed==0.3.1
+Faker==22.6.0
+pillow==10.2.0
+psycopg2==2.9.9
+pycparser==2.21
+python-dateutil==2.8.2
+six==1.16.0
+sqlparse==0.4.4
+toposort==1.10
+tzdata==2023.4
